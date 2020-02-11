@@ -1,3 +1,3 @@
-UFO Sightings - Javascript Challenge
+# UFO Sightings - Javascript Challenge
 
 
