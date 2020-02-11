@@ -1,3 +1,3 @@
 # UFO Sightings - Javascript Challenge
 
-![image here](ufosightingss.jpg)
+![image here](ufosightings.jpg)
