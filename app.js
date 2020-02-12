@@ -31,5 +31,3 @@ function filterTable(){
 }
 
 d3.selectAll("#filter-btn").on("click", filterTable);
-
-buildtable(tableData);
