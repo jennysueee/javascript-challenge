@@ -15,6 +15,8 @@ function buildTable(data){
     })
 }
 
+buildtable(tableData);
+
 // Event that Triggers a Function When the Button is Clicked
 function filterTable(){
     d3.event.preventDefault();
